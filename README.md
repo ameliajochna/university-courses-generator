@@ -9,7 +9,7 @@ Choosing subjects each semester can be challenging for many university students.
 ## Running
 
 ```console
-clone 
+git clone https://github.com/ameliajochna/university-courses-generator.git
 javac Main.java
 java Main
 
