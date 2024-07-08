@@ -33,3 +33,4 @@ This tool aims to simplify the process of course selection, allowing students to
 
 ## Example
 
+![UMLClassDiagram](https://github.com/ameliajochna/university-courses-generator/assets/62848107/56ff6dbc-b624-4629-bcb9-f073c0ec7968)
