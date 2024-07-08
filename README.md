@@ -30,7 +30,8 @@ This tool aims to simplify the process of course selection, allowing students to
 
 ## UML Class Diagram
 
+![UMLClassDiagram](https://github.com/ameliajochna/university-courses-generator/assets/62848107/e6b3fdf0-2070-48ba-8064-31cab92f7ef4)
+
 
 ## Example
 
-![UMLClassDiagram](https://github.com/ameliajochna/university-courses-generator/assets/62848107/56ff6dbc-b624-4629-bcb9-f073c0ec7968)
