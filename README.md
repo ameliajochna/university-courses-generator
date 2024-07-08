@@ -35,5 +35,7 @@ This tool aims to simplify the process of course selection, allowing students to
 
 ## Example
 
-![bachelor](https://github.com/ameliajochna/university-courses-generator/assets/62848107/74916a28-018d-4f3e-bf6d-6f21614525c8)
+![bachelor900](https://github.com/ameliajochna/university-courses-generator/assets/62848107/a3a8a83b-e010-4293-9ae1-accddd959cdb)
+
+
 
