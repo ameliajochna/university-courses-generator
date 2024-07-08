@@ -18,7 +18,7 @@ java Main
 ## Features
 
 - **Requirement Fulfillment:** The application ensures that all degree requirements are met, including the total number of ECTS points and completion of group projects.
-- **Randomized Course Selection:** Subjects are selected randomly, taking into account compulsory courses that must be completed in specific semesters. If a student is unsatisfied with the generated list, they can simply generate a new set of courses.
+- **Randomized Course Selection:** Subjects are selected randomly, taking into account compulsory courses that must be completed in specific semesters (highlighted in yellow). If a student is unsatisfied with the generated list, they can simply generate a new set of courses.
 
 ## How It Works
 
