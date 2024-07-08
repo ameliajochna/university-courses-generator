@@ -36,7 +36,8 @@ This tool aims to simplify the process of course selection, allowing students to
 
 ### Engineer degree
 
-![engineerFIXED](https://github.com/ameliajochna/university-courses-generator/assets/62848107/cd57d059-311b-47db-8f46-4c8a9d95c2f3)
+![engineerFIXED](https://github.com/ameliajochna/university-courses-generator/assets/62848107/fdf7ebc8-9ecc-438f-ad29-f9bc08cc9267)
+
 
 ### Bachelor degree
 
